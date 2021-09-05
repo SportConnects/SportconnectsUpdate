@@ -2,6 +2,22 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
    <channel>
       <title>SportConnects</title>
+	  <item>
+         <title>Version 1.2.0</title>
+         <description><![CDATA[1. News-Feed - Komplett neue Neugestaltung um Ihre Benutzererfahrung in unserer App zu steigern.<br />
+		 2. Performance-Optimierung und Bug-Fixes<br />
+		 Diverse Optimierungen und Darstellungsfehler wurden durchgeführt und angepasst damit dein Erlebnis in der App noch besser und runder läuft.]]></description>
+         <pubDate>Sat, 04 Sep 2021 12:00:00 +0200</pubDate>
+         <enclosure url="https://play.google.com/store/apps/details?id=de.sportconnects.sportconnects" sparkle:version="1.2.0" sparkle:os="android" />
+      </item>
+      <item>
+         <title>Version 1.2.0</title>
+         <description><![CDATA[1. News-Feed - Komplett neue Neugestaltung um Ihre Benutzererfahrung in unserer App zu steigern.<br />
+		 2. Performance-Optimierung und Bug-Fixes<br />
+		 Diverse Optimierungen und Darstellungsfehler wurden durchgeführt und angepasst damit dein Erlebnis in der App noch besser und runder läuft.]]></description>
+         <pubDate>Sat, 04 Sep 2021 12:00:00 +0200</pubDate>
+         <enclosure url="https://apps.apple.com/de/app/sportconnects/id1568483405" sparkle:version="1.2.0" sparkle:os="iOS" />
+      </item>
       <item>
          <title>Version 1.1.1</title>
          <description><![CDATA[*Hot fix - Keine Push Nachrichten*<br />
